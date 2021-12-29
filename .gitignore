@@ -1,0 +1,6 @@
+target/
+.target/
+.sp/
+/bsp/
+.bsp/
+.idea/
